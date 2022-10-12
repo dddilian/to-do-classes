@@ -1,0 +1,18 @@
+#listContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+#tasksList {
+    display: flex;
+    flex-direction: column;
+  
+    justify-content: space-between;
+}
+
+
+.inputChild {
+    margin: 0px 5px;
+}
